@@ -1,4 +1,4 @@
-# Gerenciador de Notas
+# Gerenciador de Notas + Outros Conceitos de POO em Dart
 
 Este programa em Dart ajuda a gerenciar as notas de alunos de uma turma. Ele permite inserir os nomes e as notas de vários alunos, calcular suas médias e classificá-los como Aprovado, Recuperação ou Reprovado. No final, exibe um relatório completo.
 
