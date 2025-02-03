@@ -1,0 +1,10 @@
+Cliente        Conta        Transação
+   |               |              |
+   |               |              |
+   |---depositar-->|              |
+   |               |              |
+   |               |---realizarTransacao-->|
+   |               |              |           |
+   |               |<--saldo atualizado--|
+   |               |              |
+   |<--confirmacao--|              |

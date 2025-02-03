@@ -1,0 +1,10 @@
++-------------------+       +--------------------+       +------------------------+
+|     Cliente       |       |       Conta        |       |       Transação        |
++-------------------+       +--------------------+       +------------------------+
+| - nome: String    |       | - saldo: double    |       | - data: Date           |
+| - cpf: String     |       | - titular: Cliente |       | - valor: double        |
++-------------------+       +--------------------+       +------------------------+
+| + getNome(): String|      | + depositar(valor: double): void | + realizarTransacao(): void |
+| + getCpf(): String |      | + sacar(valor: double): void      | + consultarSaldo(): double  |
++-------------------+       | + consultarSaldo(): double      +------------------------+
+                            +--------------------+
